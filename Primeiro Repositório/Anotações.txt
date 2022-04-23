@@ -1,0 +1,11 @@
+## alguns commandos para atualizar e sincronizar meu repositório do GitHub
+
+git clone https://github.com/gabrielgmdl/dio-desafio-github-primeiro-repositorio.git
+
+git status
+git add .
+git status
+git commit -am "Primeiras anotações sobre Git"
+git push -u origin main
+
+git pull
